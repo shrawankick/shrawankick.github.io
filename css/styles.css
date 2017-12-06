@@ -141,7 +141,7 @@ margin: 0;
 background: transparent !important;
 }
     .navbar-inverse .navbar-toggle .icon-bar {
-        /*background-color: #CC4646;*/;
+        /*background-color: #CC4646;*/
     }
 
     .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
@@ -229,13 +229,15 @@ background: none;
 .navbar-brand b {
     color: #fff;
 	font-family: 'Pacifico', cursive;
-	font-weight:400;
+    font-weight:400;
+  
 }
 
 .logo {
     font-size: 2.2em;
     text-shadow: none;
     margin: 8px 0 0 0;
+    
 }
 
     .logo:hover {
@@ -246,6 +248,7 @@ background: none;
     margin: 0;
     background: #fff;
     border: 0;
+    
 }
 
 .navbar-inverse .navbar-nav > li > a {
